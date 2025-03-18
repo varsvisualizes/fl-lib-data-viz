@@ -25,7 +25,6 @@ To come!
 
 ### Links
 
-- Solution URL: WIP
 - Live Site URL: WIP
 
 ## My process
